@@ -1,0 +1,4 @@
+name: workshopPlugin
+version: 1.0
+author: Nathan
+main: com.github.workshopPlugin.WorkshopPlugin
